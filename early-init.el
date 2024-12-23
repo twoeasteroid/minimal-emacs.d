@@ -1,4 +1,4 @@
-;;; early-init.el --- Early Init -*- no-byte-compile: t; lexical-binding: t; -*-
+;;; early-init.el --- Early Init -*- no-byte-compile: t; lexical-binding: t; buffer-read-only: t; -*-
 
 ;; Author: James Cherti
 ;; URL: https://github.com/jamescherti/minimal-emacs.d
